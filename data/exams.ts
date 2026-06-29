@@ -161,11 +161,18 @@ export const exams: Exam[] = [
     customRoute: "/KTMT-PT-2",
     totalQuestions: 40
   },
-    {
+  {
     id: "KTMT-Đề-2022.2",
     title: "Kiểm tra KTMT 2022.2",
     description: "40 câu hỏi",
     customRoute: "/KTMT-20222",
+    totalQuestions: 40
+  },
+    {
+    id: "KTMT-Tổng-Ôn",
+    title: "Kiểm tra KTMT tổng ôn",
+    description: "40 câu hỏi",
+    customRoute: "/KTMT-TongOn",
     totalQuestions: 40
   },
   {
