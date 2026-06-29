@@ -160,7 +160,7 @@ const questions: Question[] = [
         <pre className="bg-gray-100 p-2 mt-2 rounded">
           <code>
             .data{"\n"}
-            str: .asciiz "123456"{"\n"}
+            str: .asciz "123456"{"\n"}
             .text{"\n"}
             la a3, str{"\n"}
             li a2, 0{"\n"}
