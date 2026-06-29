@@ -141,6 +141,20 @@ export const exams: Exam[] = [
     totalQuestions: 40
   },
   {
+    id: "KTMT-Đề-20232",
+    title: "Kiểm tra KTMT Đề 20232",
+    description: "40 câu hỏi",
+    customRoute: "/KTMT-20232",
+    totalQuestions: 40
+  },
+  {
+    id: "KTMT-Đề-Phát-Triển",
+    title: "Kiểm tra KTMT Đề phát triển",
+    description: "40 câu hỏi",
+    customRoute: "/KTMT-PT",
+    totalQuestions: 40
+  },
+  {
     id: "n3-synonym",
     title: "Ôn Tập Từ Đồng Nghĩa N3",
     description: "Dựa trên bộ 50 cặp từ vựng trọng tâm",
