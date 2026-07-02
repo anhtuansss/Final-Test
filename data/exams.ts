@@ -50,130 +50,67 @@ export const exams: Exam[] = [
     totalQuestions: 30
   },
   {
-    id: "Test-1-OOP",
-    title: "Kiểm tra OOP 1",
-    description: "40 câu hỏi",
-    customRoute: "/Test-1-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-2-OOP",
-    title: "Kiểm tra OOP 2",
-    description: "40 câu hỏi",
-    customRoute: "/Test-2-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-3-OOP",
-    title: "Kiểm tra OOP 3",
-    description: "40 câu hỏi",
-    customRoute: "/Test-3-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-4-OOP",
-    title: "Kiểm tra OOP 4",
-    description: "40 câu hỏi",
-    customRoute: "/Test-4-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-5-OOP",
-    title: "Kiểm tra OOP 5",
-    description: "40 câu hỏi",
-    customRoute: "/Test-5-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-6-OOP",
-    title: "Kiểm tra OOP 6",
-    description: "40 câu hỏi",
-    customRoute: "/Test-6-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-7-OOP",
-    title: "Kiểm tra OOP 7",
-    description: "40 câu hỏi",
-    customRoute: "/Test-7-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-8-OOP",
-    title: "Kiểm tra OOP 8",
-    description: "40 câu hỏi",
-    customRoute: "/Test-8-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-9-OOP",
-    title: "Kiểm tra OOP 9",
-    description: "40 câu hỏi",
-    customRoute: "/Test-9-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-10-OOP",
-    title: "Kiểm tra OOP 10",
-    description: "40 câu hỏi",
-    customRoute: "/Test-10-OOP",
-    totalQuestions: 40
-  },
-  {
-    id: "Test-11-OOP",
-    title: "Kiểm tra OOP 11",
+    id: "Test-LT-CH5",
+    title: "Kiểm tra lý thuyết chương 5 OOP",
     description: "50 câu hỏi",
-    customRoute: "/Test-11-OOP",
+    customRoute: "/Test-LT-CH5",
     totalQuestions: 50
   },
   {
-    id: "Test-KTMT-Lab-1",
-    title: "Kiểm tra KTMT Lab-1",
+    id: "Test-LT-CH6",
+    title: "Kiểm tra lý thuyết chương 6 OOP",
+    description: "50 câu hỏi",
+    customRoute: "/Test-LT-CH6",
+    totalQuestions: 50
+  },
+  {
+    id: "Test-LT-CH7",
+    title: "Kiểm tra lý thuyết chương 7 OOP",
+    description: "50 câu hỏi",
+    customRoute: "/Test-LT-CH7",
+    totalQuestions: 50
+  },
+  {
+    id: "Test-LT-CH8",
+    title: "Kiểm tra lý thuyết chương 8 OOP",
+    description: "50 câu hỏi",
+    customRoute: "/Test-LT-CH8",
+    totalQuestions: 50
+  },
+  {
+    id: "Test-LT-CH10",
+    title: "Kiểm tra lý thuyết chương 10 OOP",
+    description: "50 câu hỏi",
+    customRoute: "/Test-LT-CH10",
+    totalQuestions: 50
+  },
+  {
+    id: "Test-LT-134",
+    title: "Kiểm tra lý thuyết chương 1-3-4 OOP",
+    description: "50 câu hỏi",
+    customRoute: "/Test-LT-134",
+    totalQuestions: 50
+  },
+  {
+    id: "OOP-20241",
+    title: "Đề OOP 20241",
     description: "40 câu hỏi",
-    customRoute: "/KTMT-Lab-1",
+    customRoute: "/OOP-20241",
     totalQuestions: 40
   },
   {
-    id: "Test-KTMT-Lab-2",
-    title: "Kiểm tra KTMT Lab-2",
+    id: "OOP-2025-GK",
+    title: "Đề OOP 2025-GK",
     description: "40 câu hỏi",
-    customRoute: "/KTMT-Lab-2",
+    customRoute: "/OOP-2025-GK",
     totalQuestions: 40
   },
   {
-    id: "KTMT-Đề-20232",
-    title: "Kiểm tra KTMT Đề 20232",
-    description: "40 câu hỏi",
-    customRoute: "/KTMT-20232",
-    totalQuestions: 40
-  },
-  {
-    id: "KTMT-Đề-Phát-Triển",
-    title: "Kiểm tra KTMT Đề phát triển",
-    description: "40 câu hỏi",
-    customRoute: "/KTMT-PT",
-    totalQuestions: 40
-  },
-  {
-    id: "KTMT-Đề-Phát-Triển-2",
-    title: "Kiểm tra KTMT Đề phát triển 2",
-    description: "40 câu hỏi",
-    customRoute: "/KTMT-PT-2",
-    totalQuestions: 40
-  },
-  {
-    id: "KTMT-Đề-2022.2",
-    title: "Kiểm tra KTMT 2022.2",
-    description: "40 câu hỏi",
-    customRoute: "/KTMT-20222",
-    totalQuestions: 40
-  },
-    {
-    id: "KTMT-Tổng-Ôn",
-    title: "Kiểm tra KTMT tổng ôn",
-    description: "40 câu hỏi",
-    customRoute: "/KTMT-TongOn",
-    totalQuestions: 40
+    id: "TongOnOOP",
+    title: "TongOnOOP",
+    description: "100 câu hỏi",
+    customRoute: "/TongOnOOP",
+    totalQuestions: 100
   },
   {
     id: "n3-synonym",
